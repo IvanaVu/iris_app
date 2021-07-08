@@ -243,7 +243,7 @@ pyglet==1.5.15
 Pygments==2.2.0
 PyJWT==1.7.1
 pylint==1.8.2
-pymdptoolbox==4.0b4.dev0
+pymdptoolbox==4.0b3
 pyodbc==4.0.22
 pyOpenSSL==17.5.0
 pyparsing==2.3.0

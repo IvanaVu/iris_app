@@ -285,7 +285,7 @@ SQLAlchemy==1.2.1
 statsmodels==0.12.2
 sympy==1.1.1
 tables==3.6.1
-TBB==0.1
+TBB==2021.3.0
 tblib==1.3.2
 tensorboard==1.8.0
 tensorflow==1.8.0
